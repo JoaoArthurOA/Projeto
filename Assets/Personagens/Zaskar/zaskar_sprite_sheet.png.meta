@@ -1,0 +1,937 @@
+fileFormatVersion: 2
+guid: 550abb8ac66107249a42e803e5e52e70
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 342
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad93c865a38ab394a953dde66be3a261
+      internalID: 351324380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 342
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c74b0eece2df46a960858c727a467
+      internalID: -2101861363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 342
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b609398b222291b41aad4d4f4d0a181c
+      internalID: -227305092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 342
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449891b2fd54f1247b3b39bb40c02eac
+      internalID: 577930940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 297
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8734aa46753c93478e6b2ef5d99af71
+      internalID: 1007493108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 297
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586a1deabf3ea7c4c8ed15c0eb69f296
+      internalID: -758725544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 297
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecbbe724ccef6a4791c8e0e5c2f5980
+      internalID: -1015949728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 297
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a794ab06b5698e43b006476722edc41
+      internalID: 210584374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 297
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67484c34206db1e4baae2a7e4aa91786
+      internalID: 1944300831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 297
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9da113cf818fd4b8e23b2280665abf
+      internalID: 1435129223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29e46d62205dd847a290287342eb9bf
+      internalID: -1811177365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 258
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7939422fe4d2535419a1434b29e9b09d
+      internalID: -965715230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 258
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bf760e3aab9954e8c11500c4d5ae2b
+      internalID: 788458045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 258
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5496b9b4972e9c847a16ad5795815ea8
+      internalID: 2103255402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 258
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92088d9c0d3e02e44af3457247e081c8
+      internalID: -141293163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 258
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2dbddddee0bf942a1e616ba274133d
+      internalID: 1623491573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 214
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec6bafa51d02f4469c88f51cfff9e12
+      internalID: 1679209076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 214
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e252f541260235940aa4ac5234843401
+      internalID: -110126985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 214
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51df3b67a43e87c449aa054a144e87d5
+      internalID: 1315188814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 174
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440bddf63ac40ed4085312c39b5278a6
+      internalID: -471793962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 174
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543d46936dc15f4478ed5a75255ab0cd
+      internalID: -592145490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 174
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5fc1aa94d027f4d8c95fec24363689
+      internalID: -218591958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 174
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e3ac05804ba444ebe1ae799e59124e
+      internalID: -830775887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 174
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f29f2fc20ab3d74ead18d00b3da7972
+      internalID: -860672273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 174
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc55f49f73f398478442aeee96f7252
+      internalID: -507149173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 134
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0037e8101e6f144c83dc1ead3cf16c4
+      internalID: 114807149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 134
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.16255718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0187528ebd4761429b6808ad8a0b9a9
+      internalID: 850546024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7592cf569f8e04091948f975b4af49
+      internalID: -2091846174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 134
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3bf63492f11b348914bf45dc99abed
+      internalID: 395782890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 134
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac1477ba86c74e4fb9738d84b7a56e0
+      internalID: -1477759855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 134
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c94de049eb8da45ada605c1cf6c627
+      internalID: -876718766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f64bd9abe5791141a422672e473a709
+      internalID: -753890094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 83
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f6bc0c12cbdc34aa7550ba94efa834
+      internalID: -677780987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 83
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c9fdd4baa858846bd278bfbf8c5627
+      internalID: 1596808532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 88
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbb1d46b64a21849b99056f4b8a64d4
+      internalID: 344324678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 86
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9aebf678264bd45a3b3a7c4bae2e65
+      internalID: -398156826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zaskar_sprite_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 83
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0ff502febecb428aca0a2ee004d69
+      internalID: 891339920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zaskar_sprite_sheet_19: -471793962
+      zaskar_sprite_sheet_29: -1477759855
+      zaskar_sprite_sheet_9: 1435129223
+      zaskar_sprite_sheet_17: -110126985
+      zaskar_sprite_sheet_7: 210584374
+      zaskar_sprite_sheet_3: 577930940
+      zaskar_sprite_sheet_26: 850546024
+      zaskar_sprite_sheet_20: -592145490
+      zaskar_sprite_sheet_36: 891339920
+      zaskar_sprite_sheet_15: 1623491573
+      zaskar_sprite_sheet_18: 1315188814
+      zaskar_sprite_sheet_8: 1944300831
+      zaskar_sprite_sheet_34: 344324678
+      zaskar_sprite_sheet_35: -398156826
+      zaskar_sprite_sheet_2: -227305092
+      zaskar_sprite_sheet_12: 788458045
+      zaskar_sprite_sheet_27: -2091846174
+      zaskar_sprite_sheet_31: -753890094
+      zaskar_sprite_sheet_10: -1811177365
+      zaskar_sprite_sheet_0: 351324380
+      zaskar_sprite_sheet_11: -965715230
+      zaskar_sprite_sheet_32: -677780987
+      zaskar_sprite_sheet_4: 1007493108
+      zaskar_sprite_sheet_6: -1015949728
+      zaskar_sprite_sheet_14: -141293163
+      zaskar_sprite_sheet_5: -758725544
+      zaskar_sprite_sheet_33: 1596808532
+      zaskar_sprite_sheet_1: -2101861363
+      zaskar_sprite_sheet_13: 2103255402
+      zaskar_sprite_sheet_21: -218591958
+      zaskar_sprite_sheet_24: -507149173
+      zaskar_sprite_sheet_28: 395782890
+      zaskar_sprite_sheet_23: -860672273
+      zaskar_sprite_sheet_16: 1679209076
+      zaskar_sprite_sheet_22: -830775887
+      zaskar_sprite_sheet_25: 114807149
+      zaskar_sprite_sheet_30: -876718766
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
