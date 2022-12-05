@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <title>Potion Madness</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Potion Madness">
+  <link rel="stylesheet"  href="css/styles.css">
+</head>
+<body>
+  <div class="grid">
+  <div class="right-column">
+  <img class="roby" src="./img/Roby.png" alt = "robo" >	
+  </div>
+   <div class="right-column">
+	  <canvas id="board" class="game-board"></canvas>
+	   
+	 </div>  
+	   
+	   <div class="right-column">
+             
+		  <div>
+              <h1>POTION MADNESS</h1>
+              <p>Pontuação: <span id="score">0</span></p>
+              <p>Linhas: <span id="lines">0</span></p>
+              <p>Nível: <span id="level">0</span></p>
+              <canvas id="next" class="next"></canvas>
+          </div>
+
+
+		
+	
+	
+      </div>
+	 
+			
+  </div>
+
+	<br>
+    <button onclick="play()" class="play-button">JOGAR</button>
+
+	
+  <script type="text/javascript" src="js/constantes.js"></script>
+  <script type="text/javascript" src="js/blocos.js"></script>
+  <script type="text/javascript" src="js/peca.js"></script>
+  <script type="text/javascript" src="js/inicio.js"></script>
+</body>
+</html>

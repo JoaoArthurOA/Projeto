@@ -1,0 +1,47 @@
+* {
+  font-family: Fantasy;
+   style=color: #FFF0F5;
+  }
+body{
+	background:linear-gradient(	#000000,#8B008B);
+    color: #FFF0F5;
+}
+.grid {
+  display: flex;
+  grid-template-columns: 320px 200px;
+  margin-left:20px;
+  border-radius: 10%;
+  padding: 50px;
+}
+
+.right-column {  
+  justify-content: space-between;
+  width: 100%;
+  
+}
+
+
+.game-board {
+  border: solid 2px;
+  border-radius: 10%;
+  rotate: 270deg;
+  margin-left:10px;
+  width: 350px;
+  height: 200px;
+}
+
+.play-button {
+  background-color:#006400;
+  margin-left:750px;
+  color:#000000;
+  font-size: 16px;
+  padding: 15px 30px;
+  cursor: pointer;
+}
+
+.roby{
+margin-top: 200px;
+width: 100px;
+height: 100px;
+margin-left: 600px;
+}
